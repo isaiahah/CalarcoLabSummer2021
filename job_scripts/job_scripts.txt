@@ -1,0 +1,11 @@
+Job Scripts were more complex data analysis commands
+Basic dataset merging, filtering, and concatenation was done by command line
+
+Order:
+    - Generated STAR genome files with star_generate_all.sh
+    - Mapped SRR read data onto STAR genome files with star_SRR#######.sh
+        - One script per SRR read, only with number changed. SRR6238092 saved
+    - Generated feature counts from STAR's Aligned BAM files using
+    Rsubread library in feature_counts.sh
+    - Generated differential expression data from Feature Counts data using
+    DESeq2 in diff_exp_from_fs.R

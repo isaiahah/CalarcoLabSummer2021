@@ -1,0 +1,13 @@
+Manually Picked (using UCSC conservation browser and phyloP135 data):
+WBGene00219649
+WBGene00219664
+WBGene00004833
+WBGene00004841
+WBGene00004842
+
+Top features + cons (from top0.01_features_top0.01_anyCons_comments.txt):
+WBGene00197959
+WBGene00200047
+WBGene00199162
+WBGene00200004
+

@@ -1,0 +1,8 @@
+Gene annotation files from recent literature were stored in this folder, but
+are too large to upload.
+
+Data downloaded from:
+    - Gerstein et al, 2014
+    - Lu et al, 2011
+    - Wormbase's WormMine, by searching for C. elegans ncRNA and exporting as .tsv
+    - Ensembl's WBcel235.104 assembly, downloaded from NCBI

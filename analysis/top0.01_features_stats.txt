@@ -1,0 +1,16 @@
+The total present non-coding dataset contained 8395 features.
+123 (1.46%) were snRNAs.
+7006 (83.5%) were ncRNAs.
+336 (4.00%) were snoRNAs.
+516 (6.15%) were tRNAs.
+176 (2.10%) were lincRNAs.
+216 (2.57%) were miRNAs.
+22 (0.262%) were rRNAs.
+The top non-coding feature dataset contained 296 features.
+8 (2.97%) were snRNAs. This is 2.03 times the frequency in the overall data.
+216 (80.3%) were ncRNAs. This is 0.962 times the frequency in the overall data.
+7 (2.60%) were snoRNAs. This is 0.650 times the frequency in the overall data.
+2 (0.743%) were tRNAs. This is 0.121 times the frequency in the overall data.
+29 (10.8%) were lincRNAs. This is 5.14 times the frequency in the overall data.
+2 (0.743%) were miRNAs. This is 0.289 times the frequency in the overall data.
+5 (1.86%) were rRNAs. This is 7.09 times the frequency in the overall data.

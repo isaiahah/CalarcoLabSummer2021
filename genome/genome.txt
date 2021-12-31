@@ -1,0 +1,14 @@
+Genome FASTA files were downloaded from ensembl and corresponded to Genome
+Assembly ID GCA_000002985.3
+Corresponds to Caenorhabditis elegans WBcel235 DNA assembly
+
+They are too large to be uploaded to Github.
+Files:
+   - I.fa (downloaded and unzipped from .fa.gz)
+   - II.fa (downloaded and unzipped from .fa.gz)
+   - III.fa (downloaded and unzipped from .fa.gz)
+   - IV.fa (downloaded and unzipped from .fa.gz)
+   - V.fa (downloaded and unzipped from .fa.gz)
+   - X.fa (downloaded and unzipped from .fa.gz)
+   - MtDNA.fa (downloaded and unzipped from .fa.gz)
+   - wbcel235_whole.fa (concatenation of above files)

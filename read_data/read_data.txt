@@ -1,0 +1,2 @@
+SRR6238092 to SRR628111 were downloaded using SRA Toolkit's fasterq-dump command
+They are not uploaded, for size reasons.
